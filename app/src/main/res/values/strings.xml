@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polaris Share</string>
+    <string name="welcome_message">Share your knowledge</string>
+    <string name="login_again">Log In Again</string>
+</resources>
